@@ -3,7 +3,8 @@
 
 
 # 💫 About Me:
-I’m a dedicated Full-Stack Web Developer with experience building web apps in Django and Python. I’m currently sharpening my JavaScript skills—working with React, Node.js, Express and MongoDB. My projects range from internship work to bootcamp drills and academic mini-apps, reflecting a steady growth in practical, real-world development. 
+I'm new to the IT world, dedicated to constant learning. I'm proficient in the following technologies: React, Node.js, Express, and MongoDB, and I also apply the agile SCRUM methodology to collaborative projects.
+My experience isn't just technical: I also have a solid foundation in customer service, acquired during my time at Banco BSI, supported by courses in Customer Service and Bank Teller.
 
 
 ## 🌐 Socials:
